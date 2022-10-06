@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Zigus25/Zigus25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋,  I am Zigus25!
+<---
+## Contact me
+<p align="center">
+  <a href="https://t.me/notmynamae"><img src="https://raw.githubusercontent.com/naipofo/naipofo/master/telegram.svg"></a>
+  <a href="https://naipofo.com"><img src="https://raw.githubusercontent.com/naipofo/naipofo/master/website.svg"></a>
+  <a href="mailto:athenaheki@gmail.com"><img src="https://raw.githubusercontent.com/naipofo/naipofo/master/email.svg"></a>
+</p>
+--->
+## About
+-  **Programming Languages :** Java | Kotlin | SQLite
+-  **Hobbies :** Formula 1 & Acting in theater
+-  **I can speak :**  Polish 🇵🇱 |  English 🇬🇧 
