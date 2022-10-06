@@ -2,7 +2,7 @@
 ## Contact me
 
 <p align="center">
-  <a href="mailto:athenaheki@gmail.com"><img src="https://raw.githubusercontent.com/naipofo/naipofo/master/email.svg"></a>
+  <a href="mailto:maciej.zet004@gmail.com"><img src="https://raw.githubusercontent.com/naipofo/naipofo/master/email.svg"></a>
 </p>
 
 ## About
