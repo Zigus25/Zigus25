@@ -1,5 +1,5 @@
 # Hi there 👋,  I am Zigus25  
-👀 I’m interested in BackDev in Java </i class="fa-brands fa-java">, Kotlin, C#     
+👀 I’m interested in BackDev in Java☕, Kotlin🟣, C#     
 🌱 I’m currently learning Java, Kotlin, C# & Data Science
 ## About
 -  **Programming Languages :** Java | Kotlin | SQLite
