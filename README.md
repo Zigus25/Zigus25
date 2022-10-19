@@ -1,4 +1,6 @@
-# Hi there 👋,  I am Zigus25!
+# Hi there 👋,  I am Zigus25  
+👀 I’m interested in BackDev in Java     
+🌱 I’m currently learning Java, Kotlin & Data Science
 ## About
 -  **Programming Languages :** Java | Kotlin | SQLite
 -  **Hobbies :** Formula 1 & Acting in theater
