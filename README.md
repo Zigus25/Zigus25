@@ -3,5 +3,5 @@
 🌱 I’m currently learning Java, Kotlin, C# & Data Science
 ## About
 -  **Programming Languages :** Java | Kotlin | SQLite
--  **Hobbies :** Formula 1 & Acting in theater
+-  **Hobbies :** Formula 1 & Acting in theater, acustic and light menagment at ivents
 -  **I can speak :**  Polish 🇵🇱 |  English 🇬🇧 
